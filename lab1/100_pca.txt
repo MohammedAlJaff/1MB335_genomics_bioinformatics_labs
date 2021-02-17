@@ -1,0 +1,100 @@
+Principal component analysis
+
+From Wikipedia, the free encyclopedia
+Jump to navigation Jump to search
+Conversion of a set of observations of possibly correlated variables into a set
+of values of linearly uncorrelated variables called principal components
+[220px-GaussianScatterPCA]
+ 
+PCA of a multivariate Gaussian distribution centered at (1,3) with a standard
+deviation of 3 in roughly the (0.866, 0.5) direction and of 1 in the orthogonal
+direction. The vectors shown are the eigenvectors of the covariance matrix
+scaled by the square root of the corresponding eigenvalue, and shifted so their
+tails are at the mean.
+
+The principal components of a collection of points in a real p-space are a
+sequence of p {\displaystyle p} p direction vectors, where the i th {\
+displaystyle i^{\text{th}}} i^{{\text{th}}} vector is the direction of a line
+that best fits the data while being orthogonal to the first i − 1 {\
+displaystyle i-1} i-1 vectors. Here, a best-fitting line is defined as one that
+minimizes the average squared distance from the points to the line. These
+directions constitute an orthonormal basis in which different individual
+dimensions of the data are linearly uncorrelated. Principal component analysis
+(PCA) is the process of computing the principal components and using them to
+perform a change of basis on the data, sometimes using only the first few
+principal components and ignoring the rest.
+
+PCA is used in exploratory data analysis and for making predictive models. It
+is commonly used for dimensionality reduction by projecting each data point
+onto only the first few principal components to obtain lower-dimensional data
+while preserving as much of the data's variation as possible. The first
+principal component can equivalently be defined as a direction that maximizes
+the variance of the projected data. The i th {\displaystyle i^{\text{th}}} i^
+{{\text{th}}} principal component can be taken as a direction orthogonal to the
+first i − 1 {\displaystyle i-1} i-1 principal components that maximizes the
+variance of the projected data.
+
+From either objective, it can be shown that the principal components are
+eigenvectors of the data's covariance matrix. Thus, the principal components
+are often computed by eigendecomposition of the data covariance matrix or
+singular value decomposition of the data matrix. PCA is the simplest of the
+true eigenvector-based multivariate analyses and is closely related to factor
+analysis. Factor analysis typically incorporates more domain specific
+assumptions about the underlying structure and solves eigenvectors of a
+slightly different matrix. PCA is also related to canonical correlation
+analysis (CCA). CCA defines coordinate systems that optimally describe the
+cross-covariance between two datasets while PCA defines a new orthogonal
+coordinate system that optimally describes variance in a single dataset.^[1]^
+[2]^[3]^[4] Robust and L1-norm-based variants of standard PCA have also been
+proposed.^[5]^[6]^[4]
+
+[ ]
+
+Contents
+
+  • 1 History
+  • 2 Intuition
+  • 3 Details
+      □ 3.1 First component
+      □ 3.2 Further components
+      □ 3.3 Covariances
+      □ 3.4 Dimensionality reduction
+      □ 3.5 Singular value decomposition
+  • 4 Further considerations
+  • 5 Table of symbols and abbreviations
+  • 6 Properties and limitations of PCA
+      □ 6.1 Properties
+      □ 6.2 Limitations
+      □ 6.3 PCA and information theory
+  • 7 Computing PCA using the covariance method
+      □ 7.1 Organize the data set
+      □ 7.2 Calculate the empirical mean
+      □ 7.3 Calculate the deviations from the mean
+      □ 7.4 Find the covariance matrix
+      □ 7.5 Find the eigenvectors and eigenvalues of the covariance matrix
+      □ 7.6 Rearrange the eigenvectors and eigenvalues
+      □ 7.7 Compute the cumulative energy content for each eigenvector
+      □ 7.8 Select a subset of the eigenvectors as basis vectors
+      □ 7.9 Project the data onto the new basis
+  • 8 Derivation of PCA using the covariance method
+  • 9 Covariance-free computation
+      □ 9.1 Iterative computation
+      □ 9.2 The NIPALS method
+      □ 9.3 Online/sequential estimation
+  • 10 PCA and qualitative variables
+  • 11 Applications
+      □ 11.1 Quantitative finance
+      □ 11.2 Neuroscience
+  • 12 Relation with other methods
+      □ 12.1 Correspondence analysis
+      □ 12.2 Factor analysis
+      □ 12.3 K-means clustering
+      □ 12.4 Non-negative matrix factorization
+  • 13 Generalizations
+      □ 13.1 Sparse PCA
+      □ 13.2 Nonlinear PCA
+      □ 13.3 Robust PCA
+  • 14 Similar techniques
+      □ 14.1 Independent component analysis
+      □ 14.2 Network component analysis
+  • 15 Software/source code

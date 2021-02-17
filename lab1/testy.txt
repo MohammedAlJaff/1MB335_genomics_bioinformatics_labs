@@ -1,0 +1,6 @@
+1 a x x x  
+2 x a x x 
+3 x x a x 
+4 x x x a
+5 x a a a
+6 xa x x x
