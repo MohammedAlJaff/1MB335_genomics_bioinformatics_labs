@@ -28,7 +28,7 @@ def raw_seq_string_to_seq_object(raw_seq_string):
 
     output: a so called 'sequence object' which basically is a dictionary with you elements a header and the whole sequence as a single long strings w/o a nextline charecter.
     '''
-
+    
     # split string on \n charecter. 
     dummy_x = raw_seq_string.split(sep="\n")
     header = dummy_x[0]

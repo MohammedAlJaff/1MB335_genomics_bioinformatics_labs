@@ -1,0 +1,3 @@
+
+The assembly is in a subfolder of: /proj/g2021007/private/DATA/assemblies
+The set of proteins is in: /proj/g2021007/private/DATA/coding_sequences
