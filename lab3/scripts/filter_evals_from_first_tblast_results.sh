@@ -5,4 +5,7 @@
 # 2. 0.001 = 288 hits/lines
 # 3. 0.00001 = 253 hits/lines
 
-awk '$11 < 0.00001 {print}' < tblastx_blast_outfile_for_C_elegans.blast | wc -l 
+awk '$11 < 0.00001 {print}' < tblastx_blast_outfile_for_C_elegans.blast \
+| cut -f1 \
+| sort \
+| uniq -c 
