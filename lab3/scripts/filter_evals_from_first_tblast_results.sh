@@ -8,4 +8,5 @@
 awk '$11 < 0.00001 {print}' < tblastx_blast_outfile_for_C_elegans.blast \
 | cut -f1 \
 | sort \
-| uniq -c 
+| uniq -c \
+> putative_mitochon_assembly_contigs.txt
