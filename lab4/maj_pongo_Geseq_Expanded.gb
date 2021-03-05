@@ -200,37 +200,17 @@ FEATURES             Location/Qualifiers
      rRNA            11542..12183
                      /gene="RNR1"
                      /annotator="blatN"
-     gene            12253..12650
-                     /gene="RNR2-fragment"
-                     /info="blatN_hit RNR2-fragment_NC_012920.1, position 1 -
-                     398, psl score 91.5, coverage 25.53%, match 23.35%,
-                     fragment match 91.46%"
-                     /annotator="blatN"
-     rRNA            12253..12650
-                     /gene="RNR2-fragment"
-                     /annotator="blatN"
-     gene            12653..12965
-                     /gene="RNR2-fragment"
-                     /info="blatN_hit RNR2-fragment_NC_012920.1, position 403
-                     - 715, psl score 85.0, coverage 20.08%, match 17.06%,
-                     fragment match 84.98%"
-                     /annotator="blatN"
-     rRNA            12653..12965
-                     /gene="RNR2-fragment"
-                     /annotator="blatN"
-     gene            13008..13686
+     gene            12323..13808
                      /gene="RNR2"
-                     /info="blatN_hit RNR2_NC_012920.1, position 757 - 1435,
-                     psl score 92.7, coverage 43.55%, match 40.35%"
+                     /info="maj own alignment with h. sapeins reference"
                      /annotator="blatN"
-     rRNA            13008..13686
+     rRNA            12323..13808
                      /gene="RNR2"
-                     /annotator="blatN"
+                     /annotator="MAJ"
      gene            13813..13887
                      /gene="trnL-YAA"
-                     /info="blatN_hit trnL-YAA_NC_012920.1, position 1 - 75,
-                     psl score 93.4, coverage 100.00%, match 93.33%"
-                     /annotator="blatN"
+                     /info=""maj own alignment with h. sapeins reference""
+                     /annotator="MAJ"
      tRNA            13813..13887
                      /gene="trnL-YAA"
                      /annotator="blatN"
@@ -695,4 +675,3 @@ ORIGIN
     16381 ATTCAACATG ACAATCACCT CGGGGCTGGT AAAAAGAGGT CTAACCCCTG TTCTTAGATT
     16441 TACAGCCTAA TGCCTTAACT CGGCCATTTT ACCCCCCCCC CCCCTTTTTT TCTCCACTA
 //
-
