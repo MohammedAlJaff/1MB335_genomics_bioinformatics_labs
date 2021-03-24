@@ -1,0 +1,144 @@
+########################################
+# Program: water
+# Rundate: Wed 24 Mar 2021 10:39:27
+# Commandline: water
+#    -auto
+#    -stdout
+#    -asequence emboss_water-E20210324-103843-0642-75187087-p2m.asequence
+#    -bsequence emboss_water-E20210324-103843-0642-75187087-p2m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 1.0
+#    -gapextend 5.0E-4
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: EMBOSS_001
+# 2: TPP2_HUMAN
+# Matrix: EBLOSUM62
+# Gap_penalty: 1.0
+# Extend_penalty: 0.0
+#
+# Length: 1254
+# Identity:     192/1254 (15.3%)
+# Similarity:   228/1254 (18.2%)
+# Gaps:        1010/1254 (80.5%)
+# Score: 896.576
+# 
+#
+#=======================================
+
+EMBOSS_001         1 A-QSVPW---GISRVQAP-----AA--------HN-RG-----L-T----     22
+                     | :. |:   |:  :  |     ||        :: ||     | |    
+TPP2_HUMAN         5 ATEE-PFPFHGL--L--PKKETGAASFLCRYPEYDGRGVLIAVLDTGVDP     49
+
+EMBOSS_001        23 GS-G--V------KVA-VLDT---G-IST----HP-D----------L--     41
+                     |: |  |      |:. ::||   | ::|    .| |          |  
+TPP2_HUMAN        50 GAPGMQVTTDGKPKIVDIIDTTGSGDVNTATEVEPKDGEIVGLSGRVLKI     99
+
+EMBOSS_001        42 -----N--------IR-G--------------------------------     45
+                          |        |: |                                
+TPP2_HUMAN       100 PASWTNPSGKYHIGIKNGYDFYPKALKERIQKERKEKIWDPVHRVALAEA    149
+
+EMBOSS_001        46 ------------G---A----------------SFV------PGEP----     54
+                                 |   |                ||       || |    
+TPP2_HUMAN       150 CRKQEEFDVANNGSSQANKLIKEELQSQVELLNSF-EKKYSDPG-PVYDC    197
+
+EMBOSS_001        55 -----------------------ST--------Q----------------     57
+                                            ||        |                
+TPP2_HUMAN       198 LVWHDGEVWRACIDSNEDGDLSKSTVLRNYKEAQEYGSFGTAEMLNYSVN    247
+
+EMBOSS_001        58 ---DGN--------G-HGTHVAGTIAALNNSIG---------VLGVAPSA     86
+                        |||        | |||||| :|||     |           ||||.|
+TPP2_HUMAN       248 IYDDGNLLSIVTSGGAHGTHVA-SIAA-----GHFPEEPERN--GVAPGA    289
+
+EMBOSS_001        87 E-LYAVKVLG-A--S----GSG---------S-----VS-SI--A-----    106
+                     : | ::|: | .  |    |:|         :     |: |.  |     
+TPP2_HUMAN       290 QIL-SIKI-GDTRLSTMETGTGLIRAMIEVINHKCDLVNYSYGEATHWPN    337
+
+EMBOSS_001       107 QG-----L-E--W---------AGNNG-----------------------    116
+                     .|     : |  |         |||||                       
+TPP2_HUMAN       338 SGRICEVINEAVWKHNIIYVSSAGNNGPCLSTVGCPGGTTSSVIGVGAYV    387
+
+EMBOSS_001       117 ----MHV----------AN--------------L--SL----G---S-P-    127
+                         | |          ||              |  |:    |   | | 
+TPP2_HUMAN       388 SPDMM-VAEYSLREKLPANQYTWSSRGPSADGALGVSISAPGGAIASVPN    436
+
+EMBOSS_001       128 ---------------SP----------S---A-----T-------LE---    134
+                                    ||          |   |     |       ||   
+TPP2_HUMAN       437 WTLRGTQLMNGTSMSSPNACGGIALILSGLKANNIDYTVHSVRRALENTA    486
+
+EMBOSS_001       135 ----------------Q---A----V-N-S-A-------T---SRGV-L-    146
+                                     |   |    | | | |       |   :||: | 
+TPP2_HUMAN       487 VKADNIEVFAQGHGIIQVDKAYDYLVQNTSFANKLGFTVTVGNNRGIYLR    536
+
+EMBOSS_001       147 --V-VAA-S----G----------NS---G-----A----GS-I---SY-    161
+                       | ||| |    |          ||   .     |    .| :   |: 
+TPP2_HUMAN       537 DPVQVAAPSDHGVGIEPVFPENTENSEKISLQLHLALTSNSSWVQCPSHL    586
+
+EMBOSS_001       162 --------------PAR-------------Y--A--NA--M------AV-    171
+                                   | |             |  |  ||  :      || 
+TPP2_HUMAN       587 ELMNQCRHINIRVDP-RGLREGLHYTEVCGYDIASPNAGPLFRVPITAVI    635
+
+EMBOSS_001       172 GA------------TD------QNN-NR-----------A----------    181
+                     .|            ||      |   .|           |          
+TPP2_HUMAN       636 AAKVNESSHYDLAFTDVHFKPGQ--IRRHFIEVPEGATWAEVTVCSCSSE    683
+
+EMBOSS_001       182 -S--F--------------S-Q-Y--------G----A-----G------    189
+                      |  |              | : |        |    |     |      
+TPP2_HUMAN       684 VSAKFVLHAVQLVKQRAYRSHEFYKFCSLPEKGTLTEAFPVLGGKAIEFC    733
+
+EMBOSS_001       190 -------L-----D-------IV--AP--------GVN---VQST--Y--    203
+                            |     |       ||  ||        |:|   |||:  |  
+TPP2_HUMAN       734 IARWWASLSDVNIDYTISFHGIVCTAPQLNIHASEGINRFDVQSSLKYED    783
+
+EMBOSS_001       204 ----------------------P-GS---------------TYASLN---    212
+                                           | ||               ||   |   
+TPP2_HUMAN       784 LAPCITLKNWVQTLRPVSAKTKPLGSRDVLPNNRQLYEMVLTY---NFHQ    830
+
+EMBOSS_001       213 ---G--T----------------S------------M----A--------    217
+                        |  |                |            |    |        
+TPP2_HUMAN       831 PKSGEVTPSCPLLCELLYESEFDSQLWIIFDQNKRQMGSGDAYPHQYSLK    880
+
+EMBOSS_001       218 ------T-------------------P----H---------V------A-    222
+                           |                   |    |         :      | 
+TPP2_HUMAN       881 LEKGDYTIRLQIRHEQISDLERLKDLPFIVSHRLSNTLSLDIHENHSFAL    930
+
+EMBOSS_001       223 -------------------------------GA------A----------    225
+                                                    ||      |          
+TPP2_HUMAN       931 LGKKKSSNLTLPPKYNQPFFVTSLPDDKIPKGAGPGCYLAGSLTLSKTEL    980
+
+EMBOSS_001       226 ---A--------LV----KQKN-------PS-------------------    234
+                        |        |:    |.||       .|                   
+TPP2_HUMAN       981 GKKADVIPVHYYLIPPPTKTKNGSKDKEKDSEKEKDLKEEFTEALRDLKI   1030
+
+EMBOSS_001       235 -W------S-----------N-----V----QI--------R--------    241
+                      |      |           |     |    |:        |        
+TPP2_HUMAN      1031 QWMTKLDSSDIYNELKETYPNYLPLYVARLHQLDAEKERMKRLNEIVDAA   1080
+
+EMBOSS_001       242 N----H-----L-----------------KN-------T-----------    247
+                     |    |     |                 ||       |           
+TPP2_HUMAN      1081 NAVISHIDQTALAVYIAMKTDPRPDAATIKNDMDKQKSTLVDALCRKGCA   1130
+
+EMBOSS_001       248 -A-----T-------SL--------G-----S-----------T----N-    255
+                      |     |       |.        |     |           |    | 
+TPP2_HUMAN      1131 LADHLLHTQAQDGAISTDAEGKEEEGESPLDSLAETFWETTKWTDLFDNK   1180
+
+EMBOSS_001       256 ---------L----YGSGL------V----------NA-E----------    265
+                              |    ||.||      |          |. :          
+TPP2_HUMAN      1181 VLTFAYKHALVNKMYGRGLKFATKLVEEKPTKENWKNCIQLMKLLGWTHC   1230
+
+EMBOSS_001       266 AA-T    268
+                     |: |
+TPP2_HUMAN      1231 ASFT   1234
+
+
+#---------------------------------------
+#---------------------------------------
+
