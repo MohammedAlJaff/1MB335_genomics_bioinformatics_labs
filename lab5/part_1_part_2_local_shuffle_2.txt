@@ -1,0 +1,64 @@
+########################################
+# Program: water
+# Rundate: Sun  7 Mar 2021 11:36:07
+# Commandline: water
+#    -auto
+#    -stdout
+#    -asequence emboss_water-E20210307-113522-0852-22157359-p2m.asequence
+#    -bsequence emboss_water-E20210307-113522-0852-22157359-p2m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: EMBOSS_001
+# 2: results
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 275
+# Identity:      58/275 (21.1%)
+# Similarity:    93/275 (33.8%)
+# Gaps:         105/275 (38.2%)
+# Score: 66.0
+# 
+#
+#=======================================
+
+EMBOSS_001        64 THVAGTIAALNNS---------IGVLGVAPSAELYAVKVLGASGSGSVSS    104
+                     ||:|..|....:|         :|||      .::.:::.||.|      
+results          596 THLACIIFHFTDSKCNVTLVLTLGVL------LIFHIEIDGARG------    633
+
+EMBOSS_001       105 IAQGLEWAGNNGMHVANLSLGSPSPSATLEQAVNSATSRGV---------    145
+                            |..|.||...|   .|:.|....:.::..||.|:         
+results          634 -------ASPNNMHFRAL---EPAKSRIPLETMSRTTSYGIAKYTWEVKD    673
+
+EMBOSS_001       146 ---------LVVAASGNSGAGSISYPAR---------------YANAMAV    171
+                              |.....|:..||.||.||.               :|.:..:
+results          674 IDPAEPVKQLERYTLGHFVAGLISAPATDNQCSKASSGTDQLPHAQSPEI    723
+
+EMBOSS_001       172 GATDQNNNRASFSQ-YGAGLDIVAPGV------NVQSTYPGSTYASLNGT    214
+                     |....::::.:..| :|:...|..|.|      .:...|.||        
+results          724 GWNHDSSHKNNVCQAFGSSTLIRVPDVLGGLEPAITHQYHGS--------    765
+
+EMBOSS_001       215 SMATPHVA------------------GAAALV---KQKNPSWSNVQIRNH    243
+                        .|::|                  |||.|:   .:|:.......:.:.
+results          766 ---VPYLANILCPDLENALPPDLRKCGAAQLMLTAARKDAQGPPNLLASP    812
+
+EMBOSS_001       244 LKNTATSL-GSTNLYGSGLVNAEAA    267
+                     |.::|||. |.||.| ..:|||..|
+results          813 LDHSATSAPGRTNKY-LRMVNAAVA    836
+
+
+#---------------------------------------
+#---------------------------------------
+

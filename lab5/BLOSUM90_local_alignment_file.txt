@@ -1,0 +1,64 @@
+########################################
+# Program: water
+# Rundate: Sun  7 Mar 2021 12:05:38
+# Commandline: water
+#    -auto
+#    -stdout
+#    -asequence emboss_water-E20210307-120448-0932-61951415-p1m.asequence
+#    -bsequence emboss_water-E20210307-120448-0932-61951415-p1m.bsequence
+#    -datafile EBLOSUM90
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: EMBOSS_001
+# 2: TPP2_HUMAN
+# Matrix: EBLOSUM90
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 279
+# Identity:      73/279 (26.2%)
+# Similarity:   107/279 (38.4%)
+# Gaps:          91/279 (32.6%)
+# Score: 147.5
+# 
+#
+#=======================================
+
+EMBOSS_001        58 DGN---------GHGTHVAGTIAA--------LNNSIGVLGVAPSAELYA     90
+                     |||         .|||||| :|||        .|      ||||.|::.:
+TPP2_HUMAN       251 DGNLLSIVTSGGAHGTHVA-SIAAGHFPEEPERN------GVAPGAQILS    293
+
+EMBOSS_001        91 VKVLGASGSGSVSSIAQGLEWAG---------NNGMHVANLSLGSPS--P    129
+                     :|:    |....|::..|   .|         |......|.|.|..:  |
+TPP2_HUMAN       294 IKI----GDTRLSTMETG---TGLIRAMIEVINHKCDLVNYSYGEATHWP    336
+
+EMBOSS_001       130 -SATLEQAVNSAT-SRGVLVVAASGNSG---------AGSISYPARYANA    168
+                      |..:.:.:|.|. ...::.|:::||.|         .|:.|      ..
+TPP2_HUMAN       337 NSGRICEVINEAVWKHNIIYVSSAGNNGPCLSTVGCPGGTTS------SV    380
+
+EMBOSS_001       169 MAVGA-TDQNNNRASFS--------QY----------GA-GLDIVAPGVN    198
+                     :.||| ...:...|.:|        ||          || |..|.|||..
+TPP2_HUMAN       381 IGVGAYVSPDMMVAEYSLREKLPANQYTWSSRGPSADGALGVSISAPGGA    430
+
+EMBOSS_001       199 VQS----TYPGSTYASLNGTSMATPHVAGAAALV----KQKNPSWSNVQI    240
+                     :.|    |..|:..  :|||||::|...|..||:    |..|..::...:
+TPP2_HUMAN       431 IASVPNWTLRGTQL--MNGTSMSSPNACGGIALILSGLKANNIDYTVHSV    478
+
+EMBOSS_001       241 RNHLKNTATSLGSTNLY--GSGLVNAEAA    267
+                     |..|.|||........:  |.|::..:.|
+TPP2_HUMAN       479 RRALENTAVKADNIEVFAQGHGIIQVDKA    507
+
+
+#---------------------------------------
+#---------------------------------------
+

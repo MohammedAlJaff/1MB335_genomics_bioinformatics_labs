@@ -1,0 +1,52 @@
+########################################
+# Program: water
+# Rundate: Sun  7 Mar 2021 11:38:16
+# Commandline: water
+#    -auto
+#    -stdout
+#    -asequence emboss_water-E20210307-113720-0327-54676897-p2m.asequence
+#    -bsequence emboss_water-E20210307-113720-0327-54676897-p2m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: EMBOSS_001
+# 2: results
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 102
+# Identity:      25/102 (24.5%)
+# Similarity:    41/102 (40.2%)
+# Gaps:          27/102 (26.5%)
+# Score: 40.5
+# 
+#
+#=======================================
+
+EMBOSS_001       107 QGLEWAGNNGMHVA-NLSLGSP----------------SPSATLEQAVNS    139
+                     :|.|  |:.|::.| ..|:.||                :||.|    |.:
+results            1 EGTE--GSEGINSAKGRSIASPKAGLFDYMKMEYVLGTTPSTT----VTT     44
+
+EMBOSS_001       140 ATSRGVLVVAASGNSGAGSI--SYPARYANAM--AVGATDQNNNRASFSQ    185
+                     |..:..::||||..|..|.:  :...:..:.|  |.||....:...|...
+results           45 AFVQVQILVAASNLSVDGKVLNNQDIKVLDVMVSATGAAPSRDKLCSHKL     94
+
+EMBOSS_001       186 YG    187
+                     :|
+results           95 HG     96
+
+
+#---------------------------------------
+#---------------------------------------
+

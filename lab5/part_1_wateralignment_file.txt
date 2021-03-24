@@ -1,0 +1,64 @@
+########################################
+# Program: water
+# Rundate: Sat  6 Mar 2021 20:35:39
+# Commandline: water
+#    -auto
+#    -stdout
+#    -asequence emboss_water-E20210306-203358-0912-35867703-p1m.asequence
+#    -bsequence emboss_water-E20210306-203358-0912-35867703-p1m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: EMBOSS_001
+# 2: EMBOSS_002
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 269
+# Identity:     176/269 (65.4%)
+# Similarity:   214/269 (79.6%)
+# Gaps:           0/269 ( 0.0%)
+# Score: 916.0
+# 
+#
+#=======================================
+
+EMBOSS_001         1 AQSVPWGISRVQAPAAHNRGLTGSGVKVAVLDTGISTHPDLNIRGGASFV     50
+                     :|:||||||.:....|||||:.|:|.:||||||||::||||.|.|||||:
+EMBOSS_002        93 SQTVPWGISFINTQQAHNRGIFGNGARVAVLDTGIASHPDLRIAGGASFI    142
+
+EMBOSS_001        51 PGEPSTQDGNGHGTHVAGTIAALNNSIGVLGVAPSAELYAVKVLGASGSG    100
+                     ..|||..|.|||||||||||||||||||||||||||:|||||||..:|||
+EMBOSS_002       143 SSEPSYHDNNGHGTHVAGTIAALNNSIGVLGVAPSADLYAVKVLDRNGSG    192
+
+EMBOSS_001       101 SVSSIAQGLEWAGNNGMHVANLSLGSPSPSATLEQAVNSATSRGVLVVAA    150
+                     |::|:|||:|||.||.||:.|:||||.|.|:|||.|||.|.:.|:|:|.|
+EMBOSS_002       193 SLASVAQGIEWAINNNMHIINMSLGSTSGSSTLELAVNRANNAGILLVGA    242
+
+EMBOSS_001       151 SGNSGAGSISYPARYANAMAVGATDQNNNRASFSQYGAGLDIVAPGVNVQ    200
+                     :||:|...::|||||:..|||.|.|||..|||||.||..::|.||||||.
+EMBOSS_002       243 AGNTGRQGVNYPARYSGVMAVAAVDQNGQRASFSTYGPEIEISAPGVNVN    292
+
+EMBOSS_001       201 STYPGSTYASLNGTSMATPHVAGAAALVKQKNPSWSNVQIRNHLKNTATS    250
+                     |||.|:.|.||:|||||||||||.|||||.:.||::|.|||..:..|||.
+EMBOSS_002       293 STYTGNRYVSLSGTSMATPHVAGVAALVKSRYPSYTNNQIRQRINQTATY    342
+
+EMBOSS_001       251 LGSTNLYGSGLVNAEAATR    269
+                     |||.:|||:|||:|..||:
+EMBOSS_002       343 LGSPSLYGNGLVHAGRATQ    361
+
+
+#---------------------------------------
+#---------------------------------------
+
