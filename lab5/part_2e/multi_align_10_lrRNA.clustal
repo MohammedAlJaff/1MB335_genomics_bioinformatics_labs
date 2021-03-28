@@ -1,0 +1,530 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.407)
+
+
+L_canadensis    gccaaagctagcccaa-acatccataaacccaactaacactagaaa------------at
+A_jubatus       gccaaagctagcccaa-acacccacaaacccaactaacactaaaaa------------at
+P_sungorus      actaactctagcccta-taaaaaactaacataatt-atttaattaa------------tt
+M_musculus      actaatcctagccctagccctacacaaatataatt-atactattat------------at
+P_abelii        gctaaccctagcccca-aacccaacccaccctact-accaaccaac------------cc
+H_sapiens       gctaaacctagcccca-aacccactccaccttact-accagacaac------------ct
+C_remanei       --------taaatttt-atttatttaaatattggt-attgcatact------------at
+C_elegans       --------taaatttt-acttgtttaaatattggt-attgcatact------------at
+D_simulans      -------ttagttttt-attta-ttaatttttatt-attttttatttaattattagaaat
+D_melanogaster  ------gttagttttt-attta-ttaatttttatt-attttttaaaaaattattagaaat
+                        **. ..          .   . . . * *.                     .
+
+L_canadensis    aaaacaaaacatttagttactt------------caaaaagtataggagatagaaattt-
+A_jubatus       aaaacaaaacattcagtcactt------------aaaaaagtataggagatagaaattt-
+P_sungorus      aaaacaaaccatttaaatca----------------agaagtattggtgaaagaaactag
+M_musculus      aaatcaaaacatttatcctac--------------taaaagtattggagaaagaaattcg
+P_abelii        taaccaaaccattcacccaa---------------acaaagtataggcgatagaaatta-
+H_sapiens       tagccaaaccatttacccaa---------------ataaagtataggcgatagaaattg-
+C_remanei       tacaataaaatttcatatttatgaaaaatagaaacaaagagtagaataaagattagttt-
+C_elegans       tacaataaaatttcatgttaatgaaaaatagaaacaaagggtagagtaaatattagttt-
+D_simulans      aactataaaatttaaagttttagtattgtttaaagaaaaaataattttaataatagttt-
+D_melanogaster  aactataaaatttaaagttttagtattgtttaaagaaaaaataattttaataatagttt-
+                 *    **   ** *  .                   ....**     .* *  *..*  
+
+L_canadensis    ---aacttggcgctatagagatagtaccgcaagggaaagatgaaagacaaaattaaaagc
+A_jubatus       ---aacttggcgctatagagagagtaccgcaagggaaagatgaaagataaaattaaaagc
+P_sungorus      t--aataaggagctatagagatagtaccgcaagggaaagatgaaaga-aatgtttaaagt
+M_musculus      tacatctaggagctatagaactagtaccgcaagggaaagatgaaaga-ctaattaaaagt
+P_abelii        --caatccggcgcaatagacacagtaccgtaagggaaagatgaaaaa-acacaaccaagc
+H_sapiens       --aaacctggcgcaatagatatagtaccgcaagggaaagatgaaaaa-ttataaccaagc
+C_remanei       -------------------tattgtttcatacta--------------------------
+C_elegans       -------------------tattgtttcatacta--------------------------
+D_simulans      -------------------attagtattgtaaaagaaaattgaaataatttgaaaaaatt
+D_melanogaster  -------------------attagtattgtaaaagaaaattgaaataatttgaaaaaatt
+                                       ** ....*  .                          
+
+L_canadensis    accacacagca-aagattaccccttgtaccttttgcataatgagttagctagaattaacc
+A_jubatus       accacacagca-aagattaccccttgtaccttttgcataatgagttagctagaa-caacc
+P_sungorus      acaaaaaagca-aagattaaatcttgtaccttttgcataatgaactaactagaaaacccc
+M_musculus      aagaacaagca-aagattaaaccttgtaccttttgcataatgaactaactagaaaacttc
+P_abelii        acaacatagca-aggactaacccctgtaccttttgcataatgaattaactagaaacaact
+H_sapiens       ataatatagca-aggactaacccctataccttctgcataatgaattaactagaaataact
+C_remanei       ------------aaaattatctttattagagttgatatgtcgatctttgt----------
+C_elegans       ------------aaaattatatttattagagttgatatgtcgacctttgt----------
+D_simulans      ttattttaaaagaaaatttaatttattgtaccttgtgtatcagtgtttattaaa------
+D_melanogaster  ttattttaaaagaaaatttaatttattgtaccttgtgtatcagtgtttattaaa------
+                            *..*.*   ...  *.   .. ...*. ...  *   *          
+
+L_canadensis    taacaaagagaacttcagctaggccccccgaaaccagacgagctacccacgaacaatcta
+A_jubatus       taacaaagagaacttcagctaggccccccgaaaccagacgagctacccatgaacaatcta
+P_sungorus      taactaaaagaatttaagctaggaaccccgaaaccaaacgagctacctaagagcaat---
+M_musculus      taactaaaagaattacagctagaaaccccgaaaccaaacgagctacctaaaaacaat---
+P_abelii        ttgcaaggagagccaaagccaagacccccgaaaccagacgagctacccataaacagc---
+H_sapiens       ttgcaaggagagccaaagctaagacccccgaaaccagacgagctacctaagaacagc---
+C_remanei       ---------gataactgtttttattttt--------------------------------
+C_elegans       ---------gataactgtttttattttt--------------------------------
+D_simulans      ----taaaaaataaatatttatttttctcgattttaaaagagt-----------------
+D_melanogaster  ----taaaaaataaatatttatttttctcgattttaaaagagt-----------------
+                         .*     . ..     ...                                
+
+L_canadensis    ttacaggatgaactcgtctatgttgcaaaatagtgagaagatttgtgggtagaggtgaaa
+A_jubatus       ttacaggatgaactcgtctatgttgcaaaatagtgagaagatttatgggtagaggtgaaa
+P_sungorus      tttaagaatgaacccgtctatgtagcaaaatagtgggaagacttctaggtagaggtgaaa
+M_musculus      tttatgaatcaactcgtctatgtggcaaaatagtgagaagatttttaggtagaggtgaaa
+P_abelii        taaaagagcacacccgtctatgtagcaaaatagtgggaagatttatgggtagaggcgaca
+H_sapiens       taaaagagcacacccgtctatgtagcaaaatagtgggaagatttataggtagaggcgaca
+C_remanei       -------------------atattagaaaattatatagattattat--------------
+C_elegans       -------------------atattagaaaattatatattatataat--------------
+D_simulans      taatataatatttaagttaatgtaacaaaattatttataatattata-ttagaaatgaaa
+D_melanogaster  taatataatatttaagttaatgtgataaaattatttataatattata-ttagaaatgaaa
+                                   **.* . ***** .*  .     *  *              
+
+L_canadensis    agcctaacgagcctggtgatagctggttgcccagaata-gaatcttagttcaactttaa-
+A_jubatus       agcctaacgagcctggtgatagctggttgcccagaata-gaatcttagttcaactttaa-
+P_sungorus      agcctaacgagcttggtgatagctggttacccaaaaaaagaacttcagttctactttaa-
+M_musculus      agcctaacgagcttggtgatagctggttacccaaaaaatgaatttaagttcaattttaa-
+P_abelii        aacctaccgagcctggtgatagctggttgtccaagaca-gaatcttagttcaactttaa-
+H_sapiens       aacctaccgagcctggtgatagctggttgtccaagata-gaatcttagttcaactttaa-
+C_remanei       ---------tattttaggaaaattaaaattt---gaagtgttttaatattatgttttaca
+C_elegans       ---------tattttaggaaatttaaaattt---gaagtgttttaaatttatgttttaca
+D_simulans      tgttattcgtttttaaaggtatctagttttttaagaaataaatttaatttagaaattata
+D_melanogaster  tgttattcgtttttaaaggtatctagttttttaagaaataaatttaatttagaaattata
+                           ..* . *. * .*..   ..   .* . .  ..    **  .  ***  
+
+L_canadensis    --acttacctcaaaaaccca-t--aatt-ccaatgtaagt--ttaaaatatagtctaaaa
+A_jubatus       --acttacctcaaaaaccca-t--aatt-ccaatgtaagt--ttaaaatatagtctaaaa
+P_sungorus      --gattacctcaagaaaaat-t--aatc-caaatgtaatc--ttaaattataacctaaag
+M_musculus      --acttgctaaaaaaacaacaa--aatc-aaaaagtaagt--ttagattatagccaaaag
+P_abelii        --atttacttacagaacccc-t--aatc-ccctcgtaaat--ttaattgctagtctaaag
+H_sapiens       --atttgcccacagaaccct-ctaaatc-cccttgtaaat--ttaactgttagtccaaag
+C_remanei       acattttcct--------------aat--tttatgtattt--ttattttttaattt----
+C_elegans       acattttcct--------------aat--tttatttaagt--ttaatttttaattt----
+D_simulans      a-atttactt--------------aattatttatttaattaattagtttataattttaa-
+D_melanogaster  a-atttactt--------------aattatttatttaattaattaatttataattttaa-
+                  . ** *.               ***        **  .  ***     **...     
+
+L_canadensis    aggtacagctttttaga-attag------gatacagcctttat--tagagagtaagcatt
+A_jubatus       aggtacagctttttaga-attag------gatacagcctttat--tagagagtaagca-t
+P_sungorus      agggacagctctctagg-agaag------gataaaaccttaaa--tagtgaataagacat
+M_musculus      agggacagctcttctgg-a-acg------gaaaaaacctttaa--tagtgaataattaac
+P_abelii        aggaacagctctttagacactag------gaaaaaaccttaaa--aagagagtaaaaaac
+H_sapiens       aggaacagctctttggacactag------gaaaaaaccttgta--gagagagtaaaaaat
+C_remanei       -----------------------------aataagattt------tattaaataaat---
+C_elegans       -----------------------------aataaagttt------tattaaataaat---
+D_simulans      ------tattttatggg-ataagctataaaataaagttttaaaaatattaaataaattta
+D_melanogaster  ------tgttttatggg-ataagctataaaataaatttttaaaaatattaaatagattta
+                                             .* * . ..*       *  .*.**.     
+
+L_canadensis    a------accacaaaccatagttggcttaagagcagccatcaattaagaaagcgttcaag
+A_jubatus       a------aacaagaaccatagttggcctaaaagcagccatcaattaagaaagcgttcaag
+P_sungorus      gcaaaatgtattaaaccatagttggcttaaaagcagccatcaataaagaaagcgttcaag
+M_musculus      a-aaacagcttttaaccattgtaggcctaaaagcagccaccaataaagaaagcgttcaag
+P_abelii        acaac--------acccatagtgggcccaaaagcagccatcaattaagaaagcgttcaag
+H_sapiens       ttaac--------acccatagtaggcctaaaagcagccaccaattaagaaagcgttcaag
+C_remanei       ------------------------------aatttgtaaat----------------tag
+C_elegans       ------------------------------aatttgtaaat----------------tag
+D_simulans      ataaa--------------tatatgcttagaattagcaattattaaaaaatatgttataa
+D_melanogaster  ataaa--------------tatatgcttagaattagcaattattaaaaaatatgttataa
+                                              .* . *. * .                 *.
+
+L_canadensis    ctcaacaaccagaacatcttaatgtcaaaaa-acacaaccaactccta-atttaaaactg
+A_jubatus       ctcaacaatcaaaacatcttaatgtcaaaaatatgcaaccaactccta-atttaaaactg
+P_sungorus      ctcaacacctaacagcatctaattccacaaa-ttataacaacttcctatactaaaaattg
+M_musculus      ctcaacataaaatttcaattaattccataat-ttacaccaacttcctaaacttaaaattg
+P_abelii        ctcgacacctaaacaccaaaaaataccaaac-acaaaactgaactccttactccccattg
+H_sapiens       ctcaacacccactacctaaaaaatcccaaac-atataactgaactcctcacacccaattg
+C_remanei       taaattttataaatttaattaattattaaa--atataat---------------------
+C_elegans       taaattttataaatttaatttattattaaa--atataat---------------------
+D_simulans      tttattttataaattaaattatttattaaa--ttttaattatttatta------------
+D_melanogaster  tttattttataaattaaattatttattaaa--ttttaattatttatta------------
+                .  . .    *              .  **   .  * .                     
+
+L_canadensis    ggctaatctatttaacaatagaagcaataatgctaatatgagtaacaagaaata--tttc
+A_jubatus       ggctaatctatttaataatagaagcaataatgctaatatgagtaacaagaaaca--tttc
+P_sungorus      ggttaatctattgtcatatagatgaaataatgttagcatgagtaacaagaattt--attc
+M_musculus      ggttaatctataactttatagatgcaacactgttagtatgagtaacaagaattccaattc
+P_abelii        gactaatctattgccccatagaagaaacaatgttagtataagtaacatgaagat-attct
+H_sapiens       gaccaatctatcaccctatagaagaactaatgttagtataagtaacatgaaaac-attct
+C_remanei       ------------------------------------------------------------
+C_elegans       ------------------------------------------------------------
+D_simulans      ---------------------------aaatgttaattttaattattaaaatta------
+D_melanogaster  ---------------------------aaatgttagttttaattattaaaatta------
+                                                                            
+
+L_canadensis    tccctgcataagcttatatcagaacggataacc--actgatagttaacaacaagatatgt
+A_jubatus       tccctgcataagtttatatcagaacggataacc--actgatagttaacaacaagatatat
+P_sungorus      tccacgcacaagcctataacaacccggataacc--attgttagttaacatacacacaagt
+M_musculus      tccaggcatacgcgtataacaactcggataacc--attgttagttaatcagactataggc
+P_abelii        cccccgcataagtctacgtcagaccgaaacatcacactgacaattaacggtccaatatgc
+H_sapiens       cctccgcataagcctgcgtcagattaaaacactgaactgacaattaacagcccaatatct
+C_remanei       ------------------------------------------------------------
+C_elegans       ------------------------------------------------------------
+D_simulans      -----------------------------------agcaataatgataaaattagtatat
+D_melanogaster  -----------------------------------agtaataatgataaaattagtatat
+                                                                            
+
+L_canadensis    --acaatctaactataaacaaaatatcaaactaat------tgttaacccaacacaggca
+A_jubatus       --ataacctaaccataaat-aaatatcaaactaat------tgttaatccaacacaggca
+P_sungorus      aaatcaaccccctacaaaaatcacttcacatacaa------tgttaacccaacacaggag
+M_musculus      -aataatcacactataaa---taatccacctataacttctctgttaacccaacaccggaa
+P_abelii        --atagttaacaaataaactattattttttccccc------cgttaatccaacacaggca
+H_sapiens       --acaatcaaccaacaagtcatta-ttaccctcac------tgtcaacccaacacaggca
+C_remanei       ------------------------------------------------------------
+C_elegans       ------------------------------------------------------------
+D_simulans      -aataatgtaaaaattaat-----------------------------------------
+D_melanogaster  -aataatgttaaaattaat-----------------------------------------
+                                                                            
+
+L_canadensis    tgcaaacttagggaaagattaaaagaagtaaaaggaactcggcaaacacaagccccgcct
+A_jubatus       tgcaaatttagggaaagattaaaagaagtaaaaggaactcggcaaacacaagccccgcct
+P_sungorus      tgca---taaaggaaagattaaaagaaataaaaggaactaggcaaacaagaatcccgcct
+M_musculus      tgcc---taaaggaaagatccaaaaagataaaaggaactcggcaaacaagaaccccgcct
+P_abelii        tgcc--tataaggaaaggttaaaaaaagtaaaaggaactcggcaaatctca-ccccgcct
+H_sapiens       tgct--cataaggaaaggttaaaaaaagtaaaaggaactcggcaaatctta-ccccgcct
+C_remanei       ------------------------------tgaagaacttg----aagtcttgatcaaat
+C_elegans       ------------------------------tgaagaacttg----aagtcttgatcaaat
+D_simulans      -----ttttatgaaaagtttaa-------ataaagaattcggcaaaaataatattcgcct
+D_melanogaster  -----ttatatgaaaagtttaa-------ataaagaattcggcaaaaataatattcgcct
+                                               .*.***.* *    *        .*.  *
+
+L_canadensis    gtttaccaaaaacatcacctctagcatttctagtattagaggcactgcctgcccagtgac
+A_jubatus       gtttaccaaaaacatcacctctagcatttccagtattagaggcactgcctgcccagtgac
+P_sungorus      gtttaccaaaaacatcacctctagcattacaagtattagaggcaatgcctgcccagtgac
+M_musculus      gtttaccaaaaacatcacctctagcattacaagtattagaggcactgcctgcccagtgac
+P_abelii        gtttaccaaaaacatcacctctagcattaccagtattagaggcaccgcctgcccggtgac
+H_sapiens       gtttaccaaaaacatcacctctagcatcaccagtattagaggcaccgcctgcccagtgac
+C_remanei       gttttttaaagac--------ttaggctt----tatattaaagctggcttctgcccta-t
+C_elegans       gttttttaaagac--------ttaggctt----tatattaaagctggcttctgcccta-t
+D_simulans      gtttaacaaaaacatgtctttttgaatta----tatataaagtctaacctgcccactgaa
+D_melanogaster  gtttaacaaaaacatgtctttttgaatta----tatataaagtctaacctgcccactg-a
+                ****  .***.**        * . ...     ***   *..    .*.* . *  *.  
+
+L_canadensis    actagttaaacggccgcggtatcctgaccgtgcaaaggtagcataatcatttgttcccta
+A_jubatus       actagttaaacggccgcggtattctgaccgtgcaaaggtagcataatcatttgttcccta
+P_sungorus      -atagttaaacggccgcggtatcctgaccgtgcaaaggtagcataatcacttgttcctta
+M_musculus      taaagtttaacggccgcggtatcctgaccgtgcaaaggtagcataatcacttgttcctta
+P_abelii        atacgtttaacggccgcggtaccctgaccgtgcaaaggtagcataatcacttgttcctta
+H_sapiens       acatgtttaacggccgcggtaccctaaccgtgcaaaggtagcataatcacttgttcctta
+C_remanei       gatatttaaatggcagtcttagcgtgaggacattaaggtagcaaaataatttgtgctttt
+C_elegans       gatatttaaatggcagtcttagcgtgaggacattaaggtagcaaaataatttgtgctttt
+D_simulans      aaattttaaatggccgcagtattttgactgtgcaaaggtagcataatcattagtctttta
+D_melanogaster  aaattttaaatggccgcagtattttgactgtgcaaaggtagcataatcattagtctttta
+                     ** **.*** *.  ** . *.*  .... ********* *** *.* ** ...* 
+
+L_canadensis    aatagggacttgtatgaatggccacacgagggctttactgtctcttacttccaatccgtg
+A_jubatus       aatagggacttgtatgaacggccacacgagggctttactgtctcttacttccaatccgtg
+P_sungorus      attagggactagaatgaacggcttaacgaggattcaactgtctcttatttctaatcagtg
+M_musculus      attagggactagcatgaacggctaaacgagggtccaactgtctcttatctttaatcagtg
+P_abelii        aatggggacttgtatgaatggcttcacgagggttcgactgtctcttacttttaaccagtg
+H_sapiens       aatagggacctgtatgaatggctccacgagggttcagctgtctcttacttttaaccagtg
+C_remanei       attgagttccagtatgaatg-------aagttattggtta-gttctatttatgttttatg
+C_elegans       attgagttccagtatgaatg-------aagttattggtta-gttctatttatgttttatg
+D_simulans      attgaaggctggaatgaatggttggacgaaatattaact--gtttcatttaaaatttttg
+D_melanogaster  attgaaggctggaatgaatggttggacgaaatattaact--gtttcatttaaaattttta
+                * *...  *. * *****.*       .*.   .. ..*   *...*..*  . ..  *.
+
+L_canadensis    ---aaattgaccttcccgtgaagaggcgg-gaatataacaataagacgagaagaccctgt
+A_jubatus       ---aaattgaccttcccgtgaagaggcgg-gaatataataataagacgagaagaccctat
+P_sungorus      ---aaattgaccttcccgtgaagaggcgg-gaatacaacaataagacgagaagaccctat
+M_musculus      ---aaattgacctttcagtgaagaggctg-aaatataataataagacgagaagaccctat
+P_abelii        ---aaattgacctgcccgtgaagaggcgg-gcataacataacaagacgagaagaccctat
+H_sapiens       ---aaattgacctgcccgtgaagaggcgg-gcataacacagcaagacgagaagaccctat
+C_remanei       tttgaatttaatttttatttaagaaaaaataaatatatttatacaaagataagtcttcgg
+C_elegans       tttgaatttaatttttatttaagaaaaaataaatatatttatacaaagataagtcttcgg
+D_simulans      tagaattttattttttagtcaaaaagcta-aaatttatttaaaagacgagaagaccctat
+D_melanogaster  tagaattttattttttagtcaaaaagcta-aaatttatttaaaagacgagaagaccctat
+                   .* ** * .* ..  * **.*..  . . **    . . * .* ** *** *.... 
+
+L_canadensis    ggagctt------------------taattaaccggcccaaa-gagaccccattatct--
+A_jubatus       ggagctt------------------taattaattgacccaaa-gagacccattaattt--
+P_sungorus      ggagctt------------------caatctcatagctta------attcaataaaatat
+M_musculus      ggagctt------------------aaattatataactta------tctatttaatttat
+P_abelii        ggagctt------------------caatttaccagtgcaaataacatacaacaagcc--
+H_sapiens       ggagctt------------------taatttattaatgcaaacagtacctaacaaacc--
+C_remanei       aaattctgtta-----------------ttatataatttaaaaattatataataaa----
+C_elegans       aaattctgtta-----------------ttacacaattaaataattgtgtaataaa----
+D_simulans      aaatctttatattttttttttattttaattataaagattaattaaattttaataaataaa
+D_melanogaster  aaatctttata-tttttttttattttaattatatagattaattaaattttaataaataaa
+                ..* ..*                     *.    ..   *       .    . *     
+
+L_canadensis    -aaccgacaggaacaacaaacctctgctatg---ggccgacaatttaggttggggtgacc
+A_jubatus       caaccgacaggaataacaaacctcta-tatg---ggccaacaatttaggttggggtgacc
+P_sungorus      acacacctactggtaataaaatacaa-aacatttaagcttagatttcggttggggtgacc
+M_musculus      taaacctaatggcccaaaaactatag-tata---agtttgaaatttcggttggggtgacc
+P_abelii        -------cacaggccctaaatcacca-aacc-tgcactgaagatttcggttggggcgacc
+H_sapiens       -------cacaggtcctaaactacca-aacc-tgcattaaaaatttcggttggggcgacc
+C_remanei       ------------------------------------------------------------
+C_elegans       ------------------------------------------------------------
+D_simulans      ---------------------------aata-------------ttttattggggtgata
+D_melanogaster  ---------------------------aata-------------ttttattggggtgata
+                                                                            
+
+L_canadensis    tcggagaatagaacaacctccgagtga-tttaaatcaagacta-accagtcaaaagta--
+A_jubatus       tcggagaacagaacaacctccgagtga-tttaaatcaagacta-accagtcaaaagta--
+P_sungorus      tcggagaacaaaagatcctccgaacgatttttagctaagacat-acaagtcaaagca---
+M_musculus      tcggagaataaaaaatcctccgaatga-ttataacctagactt-acaagtcaaagtaaaa
+P_abelii        tcggagcacaacccaacctccgagaaa-cacatgttaagacctcacaagtcaaaacga-a
+H_sapiens       tcggagcagaacccaacctccgagcag-tacatgctaagacttcaccagtcaaagcga-a
+C_remanei       ----------------------------------------------ttttctagggcaga
+C_elegans       ----------------------------------------------ttttctagggcaga
+D_simulans      ttaaaatttaaaaaactttta-----------------------a-tttttaaaaacatt
+D_melanogaster  ttaaaatttaaaaaactttta-----------------------attttttaaaaacata
+                                                                 *. *..     
+
+L_canadensis    -ttacatcacttattgatccaaa---aacttgatcaacggaacaagttaccccagggata
+A_jubatus       -ttacatcactaattgatccaaa---aacttgatcaacggaacaagttaccctagggata
+P_sungorus      -cttattatctaattgacccaaatattatttgatcaacggaccaagttaccctagggata
+M_musculus      tcaacatatcttattgacccagatatattttgatcaacggaccaagttaccctagggata
+P_abelii        cttccacacacaattgatccaac---aacttgaccaacggaacaagttaccctagggata
+H_sapiens       ctactatactcaattgatccaat---aacttgaccaacggaacaagttaccctagggata
+C_remanei       atattatataatagtattttact--atatttaatttaaa----gaattactccggagtta
+C_elegans       atattatataatagtatttcact--atatttaatttaaa----gaattactccggagtta
+D_simulans      aatttatgaataaatgatccatt--aataatgattaaaaaattaagttactttagggata
+D_melanogaster  aatttatgaatatttgatccatt--aataatgattaaaaaattaagttactttagggata
+                      .       *. ...*         *.*.. * .    .*.****....*.* **
+
+L_canadensis    acag---------cgcaatcctattttagagtccatatcgacaa-tagggtttacgacct
+A_jubatus       acag---------cgcaatcctattttagagtccatatcgacaa-tagggtttacgacct
+P_sungorus      acag---------cgcaatcctattcaagagtccctatcgacaattagggtttacgacct
+M_musculus      acag---------cgcaatcctatttaagagttcatatcgacaattagggtttacgacct
+P_abelii        acag---------cgcaatcctgttctagagtccatatcaacaa-cagggtttacgacct
+H_sapiens       acag---------cgcaatcctattctagagtccatatcaacaa-tagggtttacgacct
+C_remanei       acagaaaatcatacctaatct--------agtacttatagtaag-gtaagttt--tacat
+C_elegans       acagaaaatcatacctaatct--------agtacttatagtaag-gtaagttt--tacat
+D_simulans      acag---------cgtaatttttttggagagttcatatcgataa-aaaagattgcgacct
+D_melanogaster  acag---------cgtaatttttttggagagttcatatcgataa-aaaagattgcgacct
+                ****         * .***..        *** * *** .  *.   ..* **   ** *
+
+L_canadensis    cgatgttggatcaggacatcccgatggtgcagcagctatcaaaggttcgtttgttcaacg
+A_jubatus       cgatgttggatcaggacatcccgatggtgcagcagctatcaaaggttcgtttgttcaacg
+P_sungorus      cgatgttggatcaggacatcccaatggtgtagaagctattaaaggttcgtttgttcaacg
+M_musculus      cgatgttggatcaggacatcccaatggtgtagaagctattaatggttcgtttgttcaacg
+P_abelii        cgatgttggatcaggacatcctaatggtgcagccgctattaaaggttcgtttgttcaacg
+H_sapiens       cgatgttggatcaggacatcccgatggtgcagccgctattaaaggttcgtttgttcaacg
+C_remanei       cgatgttgtattcagataatctaagagaggagaaggcttagtagttcagactgttcttct
+C_elegans       cgatgttgtattcagataatctaagagaggagaaggcttagtagtttagactgttcttct
+D_simulans      cgatgttggattaagatataattttgggtgtagccgttcaaattttaagtctgttcgact
+D_melanogaster  cgatgttggattaagatataattttgggtgtagccgttcaaattttaagtctgttcgact
+                ******** **. .**.*   .   .*    .    . . .    *  * .*****  * 
+
+L_canadensis    attaa--agtcctacgtgatctgagttcagaccggagtaatccaggtcggtttctatcta
+A_jubatus       attaa--agtcctacgtgatctgagttcagaccggagcaatccaggtcggtttctatcta
+P_sungorus      attaa--agtcctacgtgatctgagttcagaccggagtaatccaggtcggtttctatcta
+M_musculus      attaa--agtcctacgtgatctgagttcagaccggagcaatccaggtcggtttctatcta
+P_abelii        attaa--agtcctacgtgatctgagttcagaccggagcaatccaggtcggtttctatcta
+H_sapiens       attaa--agtcctacgtgatctgagttcagaccggagtaatccaggtcggtttctatcta
+C_remanei       attaattaatctgacgtgatattagtttaattcattgtgagatagaattgtttatcttga
+C_elegans       attaattaatctgacgtgatattagtttaattcattgtgagatagaattgtttatcttga
+D_simulans      tttaa--attcttacatgatctgagttcaaaccggtgtaagccaggttggtttctatctt
+D_melanogaster  tttaa--attcttacatgatctgagttcaaaccggtgtaagccaggttggtttctatctt
+                 ****  * **. **.**** * ****.*. .*.  *..*  .**. . **** * *.  
+
+L_canadensis    ttaaataattt----------ctcccagtacgaaaggacaagagaaataaggcccacttt
+A_jubatus       ttaaataattt----------ctcccagtacgaaaggacaagagaaataaggcccacttc
+P_sungorus      tt-aacgattt----------ctcccagtacgaaaggacaagagaaatagagcctcctta
+M_musculus      tt-tacgattt----------ctcccagtacgaaaggacaagagaaatagagccacctta
+P_abelii        t-ttcacattt----------ctccctgtacgaaaggacaagagaaatggggcctacttc
+H_sapiens       cnttcaaattc----------ctccctgtacgaaaggacaagagaaataaggcctacttc
+C_remanei       t--aaatatttatatttaatacatttagtacgaaagg----aaca---------------
+C_elegans       t--aaatatttatatttaatacatttagtacgaaagg----aaca---------------
+D_simulans      t--aaaaaattataat-----attttagtacgaaaggaccaaata---------------
+D_melanogaster  t--aaaaaattatgat-----attttagtacgaaaggaccaaata---------------
+                .      * *.            ... **********    .* *               
+
+L_canadensis    -accaaagcgcctttaacctaatagatgat-ataatcttaa---tctagacagtttaccc
+A_jubatus       -atcaaagcgcctttaacctaatagatgat-ataatcttaa---tctaaacagtttatcc
+P_sungorus      -acaaaagcgccct-aaattaattaatgaa-accatctcaa---tatagtaaatacgtac
+M_musculus      caaataagcgctctcaacttaatttatgaataaaatctaaa---taaaatatatacgtac
+P_abelii        -acataagcgcctt-tcccaaacaaatgat-atcatctcaa---tttaacac-----cac
+H_sapiens       -aca-aagcgcctt-cccc-cgtaaatgat-atcatctcaa---cttagtat-----tat
+C_remanei       -ttgtaaaagttttaaacttta--------aagatttttaa-------------------
+C_elegans       -ttgtaaaagttttaaacttta--------aagattttgaaatcttt-------------
+D_simulans      -ttaaaataattatattttttata----agaatattattaa---tataaa----------
+D_melanogaster  -tcaaaataattatattttttata----agaatattattaa---tataaa----------
+                     **  ... *    .  .         *   * * **                   
+
+L_canadensis    aatttcatctacccgagagctcgggttt--------------------------------
+A_jubatus       aactaca-ctacccaagaactcgggtttgttaaggtggcagagcccggtaactgcataaa
+P_sungorus      aac-----ctacccctagaacaggggct--------------------------------
+M_musculus      acc-----ctctaacctagagaaggtt---------------------------------
+P_abelii        accaacacccacccaagaaaagggctat--------------------------------
+H_sapiens       acccacacccacccaagaacagggttt---------------------------------
+C_remanei       ------------------------------------------------------------
+C_elegans       ------------------------------------------------------------
+D_simulans      ------------------------------------------------------------
+D_melanogaster  ------------------------------------------------------------
+                                                                            
+
+L_canadensis    ------------------------------------------------------------
+A_jubatus       acttaagcttttattatcagaggttcaattcctctccttaacaacatgtttataattaat
+P_sungorus      ------------------------------------------------------------
+M_musculus      ------------------------------------------------------------
+P_abelii        ------------------------------------------------------------
+H_sapiens       ------------------------------------------------------------
+C_remanei       ------------------------------------------------------------
+C_elegans       ------------------------------------------------------------
+D_simulans      ------------------------------------------------------------
+D_melanogaster  ------------------------------------------------------------
+                                                                            
+
+L_canadensis    ------------------------------------------------------------
+A_jubatus       atcctctcactaattatccctattctcctcgccgtggctttcctaaccctagttgaacga
+P_sungorus      ------------------------------------------------------------
+M_musculus      ------------------------------------------------------------
+P_abelii        ------------------------------------------------------------
+H_sapiens       ------------------------------------------------------------
+C_remanei       ------------------------------------------------------------
+C_elegans       ------------------------------------------------------------
+D_simulans      ------------------------------------------------------------
+D_melanogaster  ------------------------------------------------------------
+                                                                            
+
+L_canadensis    ------------------------------------------------------------
+A_jubatus       aaagtactaggctacatacaacttcgtaaaggaccaaatgtcgtaggaccatatggccta
+P_sungorus      ------------------------------------------------------------
+M_musculus      ------------------------------------------------------------
+P_abelii        ------------------------------------------------------------
+H_sapiens       ------------------------------------------------------------
+C_remanei       ------------------------------------------------------------
+C_elegans       ------------------------------------------------------------
+D_simulans      ------------------------------------------------------------
+D_melanogaster  ------------------------------------------------------------
+                                                                            
+
+L_canadensis    ------------------------------------------------------------
+A_jubatus       ctccaacctattgcagacgccgtaaaactctttaccaaagaacctctccgacctctcaca
+P_sungorus      ------------------------------------------------------------
+M_musculus      ------------------------------------------------------------
+P_abelii        ------------------------------------------------------------
+H_sapiens       ------------------------------------------------------------
+C_remanei       ------------------------------------------------------------
+C_elegans       ------------------------------------------------------------
+D_simulans      ------------------------------------------------------------
+D_melanogaster  ------------------------------------------------------------
+                                                                            
+
+L_canadensis    ------------------------------------------------------------
+A_jubatus       tcctccatattcatatttattatagcaccaattctagccctcacactagcactaactatg
+P_sungorus      ------------------------------------------------------------
+M_musculus      ------------------------------------------------------------
+P_abelii        ------------------------------------------------------------
+H_sapiens       ------------------------------------------------------------
+C_remanei       ------------------------------------------------------------
+C_elegans       ------------------------------------------------------------
+D_simulans      ------------------------------------------------------------
+D_melanogaster  ------------------------------------------------------------
+                                                                            
+
+L_canadensis    ------------------------------------------------------------
+A_jubatus       tgaatcccactacccatgccatatccactcatcaatatgaacctaggagtactattcata
+P_sungorus      ------------------------------------------------------------
+M_musculus      ------------------------------------------------------------
+P_abelii        ------------------------------------------------------------
+H_sapiens       ------------------------------------------------------------
+C_remanei       ------------------------------------------------------------
+C_elegans       ------------------------------------------------------------
+D_simulans      ------------------------------------------------------------
+D_melanogaster  ------------------------------------------------------------
+                                                                            
+
+L_canadensis    ------------------------------------------------------------
+A_jubatus       ctagccatatcaagcctagccgtttactctatcctatgatcaggatgggcttcaaactca
+P_sungorus      ------------------------------------------------------------
+M_musculus      ------------------------------------------------------------
+P_abelii        ------------------------------------------------------------
+H_sapiens       ------------------------------------------------------------
+C_remanei       ------------------------------------------------------------
+C_elegans       ------------------------------------------------------------
+D_simulans      ------------------------------------------------------------
+D_melanogaster  ------------------------------------------------------------
+                                                                            
+
+L_canadensis    ------------------------------------------------------------
+A_jubatus       aaatatgctctaatcggagccttacgagccgtagcccaaacaatctcatatgaagtcaca
+P_sungorus      ------------------------------------------------------------
+M_musculus      ------------------------------------------------------------
+P_abelii        ------------------------------------------------------------
+H_sapiens       ------------------------------------------------------------
+C_remanei       ------------------------------------------------------------
+C_elegans       ------------------------------------------------------------
+D_simulans      ------------------------------------------------------------
+D_melanogaster  ------------------------------------------------------------
+                                                                            
+
+L_canadensis    ------------------------------------------------------------
+A_jubatus       ctagccatcatccttttatcagtattactaataaatgggtccttcacactagccacacta
+P_sungorus      ------------------------------------------------------------
+M_musculus      ------------------------------------------------------------
+P_abelii        ------------------------------------------------------------
+H_sapiens       ------------------------------------------------------------
+C_remanei       ------------------------------------------------------------
+C_elegans       ------------------------------------------------------------
+D_simulans      ------------------------------------------------------------
+D_melanogaster  ------------------------------------------------------------
+                                                                            
+
+L_canadensis    ------------------------------------------------------------
+A_jubatus       attaccacccaagaacacacatggctaattatccctgcatgacccctagccatgatatga
+P_sungorus      ------------------------------------------------------------
+M_musculus      ------------------------------------------------------------
+P_abelii        ------------------------------------------------------------
+H_sapiens       ------------------------------------------------------------
+C_remanei       ------------------------------------------------------------
+C_elegans       ------------------------------------------------------------
+D_simulans      ------------------------------------------------------------
+D_melanogaster  ------------------------------------------------------------
+                                                                            
+
+L_canadensis    ------------------------------------------------------------
+A_jubatus       tttatctcaacactagcagaaactaaccgagccccattcgacctaacagaaggggaatca
+P_sungorus      ------------------------------------------------------------
+M_musculus      ------------------------------------------------------------
+P_abelii        ------------------------------------------------------------
+H_sapiens       ------------------------------------------------------------
+C_remanei       ------------------------------------------------------------
+C_elegans       ------------------------------------------------------------
+D_simulans      ------------------------------------------------------------
+D_melanogaster  ------------------------------------------------------------
+                                                                            
+
+L_canadensis    ------------------------------------------------------------
+A_jubatus       gaattagtctccggatttaatgtagaatacgcagcaggccccttcgccctattctttcta
+P_sungorus      ------------------------------------------------------------
+M_musculus      ------------------------------------------------------------
+P_abelii        ------------------------------------------------------------
+H_sapiens       ------------------------------------------------------------
+C_remanei       ------------------------------------------------------------
+C_elegans       ------------------------------------------------------------
+D_simulans      ------------------------------------------------------------
+D_melanogaster  ------------------------------------------------------------
+                                                                            
+
+L_canadensis    ------------------------------------------------------------
+A_jubatus       gcagaatacgccaacatcatcataataaatatccttacaacaatcctatttttcggagca
+P_sungorus      ------------------------------------------------------------
+M_musculus      ------------------------------------------------------------
+P_abelii        ------------------------------------------------------------
+H_sapiens       ------------------------------------------------------------
+C_remanei       ------------------------------------------------------------
+C_elegans       ------------------------------------------------------------
+D_simulans      ------------------------------------------------------------
+D_melanogaster  ------------------------------------------------------------
+                                                                            
+
+L_canadensis    ------------------------------------------------------------
+A_jubatus       ttccataatccttatataccagaactatatattgtcaactttacagtaaaaaccctgttt
+P_sungorus      ------------------------------------------------------------
+M_musculus      ------------------------------------------------------------
+P_abelii        ------------------------------------------------------------
+H_sapiens       ------------------------------------------------------------
+C_remanei       ------------------------------------------------------------
+C_elegans       ------------------------------------------------------------
+D_simulans      ------------------------------------------------------------
+D_melanogaster  ------------------------------------------------------------
+                                                                            
+
+L_canadensis    ---------------------------
+A_jubatus       ttaacaaccactttcctatgaatccga
+P_sungorus      ---------------------------
+M_musculus      ---------------------------
+P_abelii        ---------------------------
+H_sapiens       ---------------------------
+C_remanei       ---------------------------
+C_elegans       ---------------------------
+D_simulans      ---------------------------
+D_melanogaster  ---------------------------
+                                           
