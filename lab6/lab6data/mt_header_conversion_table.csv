@@ -1,0 +1,27 @@
+file_name;8_char_id;human_readable_id ;ncbi_header
+F_A_ricketti.fasta;F_Arick;F_A_ricketti_mt;>NC_023949.1 Amolops ricketti mitochondrion, complete genome
+F_P_cretensis.fasta;F_Pcret;F_P_cretensis_mt;>NC_025575.1 Pelophylax cretensis isolate CR03 mitochondrion, complete genome
+F_R_amurensis.fasta;F_Ramu;F_R_amurensis_mt;>NC_030042.1 Rana amurensis voucher SYNU11100268 mitochondrion, complete genome
+F_R_temporaria .fasta;F_Rtemp;F_R_temporaria _mt;>NC_042226.1 Rana temporaria mitochondrion, complete genome
+F_X_borealis.fasta;F_Xbore;F_X_borealis_mt;>NC_018776.1 Xenopus borealis mitochondrion, complete genome
+L_G_japonicus.fasta;L_Gjapo;L_G_japonicus_mt;>NC_028035.1 Gekko japonicus mitochondrion, complete genome
+L_I_iguana.fasta;L_Iigua;L_I_iguana_mt;>NC_002793.1 Iguana iguana mitochondrion, complete genome
+L_L_agilis.fasta;L_Lagil;L_L_agilis_mt;>NC_021766.1 Lacerta agilis mitochondrion, complete genome
+L_L_personatus.fasta;L_Lpers;L_L_personatus_mt;>NC_012834.1 Leiocephalus personatus mitochondrion, complete genome
+L_P_elegans.fasta;L_Peleg;L_P_elegans_mt;>NC_024576.1 Plestiodon elegans mitochondrion, complete genome
+L_P_muralis.fasta;L_Pmura;L_P_muralis_mt;>NC_011607.1 Podarcis muralis mitochondrion, complete genome
+L_S_modesta.fasta;L_Smode;L_S_modesta_mt;>NC_048521.1 Scincella modesta mitochondrion, complete genome
+O1_C_maximus.fasta;O1_Cmaxi;O1_C_maximus_mt;>NC_023266.1 Cetorhinus maximus mitochondrion, complete genome
+O1_C_obscurus.fasta;O1_Cobsc;O1_C_obscurus_mt;>NC_020611.1 Carcharhinus obscurus mitochondrion, complete genome
+O1_C_taurus.fasta;O1_Ctaur;O1_C_taurus_mt;>NC_023520.1 Carcharias taurus mitochondrion, complete genome
+O1_O_japonicus.fasta;O1_Ojapo;O1_O_japonicus_mt;>NC_022148.1 Orectolobus japonicus mitochondrion, complete genome
+O1_T_obesus.fasta;O1_Tobes;O1_T_obesus_mt;>NC_026287.1 Triaenodon obesus mitochondrion, complete genome
+O2_G_gorilla.fasta;O2_Ggori;O2_G_gorilla_mt;>NC_011120.1 Gorilla gorilla gorilla mitochondrion, complete genome
+O2_P_pygmaeus.fasta;O2_Ppygm;O2_P_pygmaeus_mt;>NC_001646.1 Pongo pygmaeus mitochondrion, complete genome
+O2_P_troglodytes.fasta;O2_Ptrog;O2_P_troglodytes_mt;>NC_001643.1 Pan troglodytes mitochondrion, complete genome
+S_A_japonicus.fasta;S_Ajapo;S_A_japonicus_mt;>NC_007446.1 Andrias japonicus mitochondrion, complete genome
+S_A_texanum.fasta;S_Atexa;S_A_texanum_mt;>NC_014571.1 Ambystoma texanum mitochondrion, complete genome
+S_B_nigriventris.fasta;S_Bnigr;S_B_nigriventris_mt;>NC_028184.1 Batrachoseps nigriventris mitochondrion, complete genome
+S_H_leechii.fasta;S_Hleec;S_H_leechii_mt;>NC_008079.1 Hynobius leechii mitochondrion, complete genome
+S_N_beyeri.fasta;S_Nbeye;S_N_beyeri_mt;>NC_023341.1 Necturus beyeri mitochondrion, complete genome
+S_T_carnifex.fasta;S_Tcarn;S_T_carnifex_mt;>NC_015788.1 Triturus carnifex mitochondrion, complete genome

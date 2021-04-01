@@ -1,0 +1,27 @@
+file_name;8_char_id;human_readable_id ;ncbi_header
+F_cytb_A_ricketti.fasta;F_Arick;F_A_ricketti_cytb;>NC_023949.1:14226-15368 Amolops ricketti mitochondrion, complete genome
+F_cytb_P_cretensis.fasta;F_Pcret;F_P_cretensis_cytb;>NC_025575.1:14234-15376 Pelophylax cretensis isolate CR03 mitochondrion, complete genome
+F_cytb_R_amurensis.fasta;F_Ramu;F_R_amurensis_cytb;>NC_030042.1:17328-18470 Rana amurensis voucher SYNU11100268 mitochondrion, complete genome
+F_cytb_R_temporaria .fasta;F_Rtemp;F_R_temporaria _cytb;>NC_042226.1:14633-15775 Rana temporaria mitochondrion, complete genome
+F_cytb_X_borealis.fasta;F_Xbore;F_X_borealis_cytb;>NC_018776.1:14246-15387 Xenopus borealis mitochondrion, complete genome
+L_cytb_G_japonicus.fasta;L_Gjapo;L_G_japonicus_cytb;>NC_028035.1:14099-15238 Gekko japonicus mitochondrion, complete genome
+L_cytb_I_iguana.fasta;L_Iigua;L_I_iguana_cytb;>NC_002793.1:14158-15297 Iguana iguana mitochondrion, complete genome
+L_cytb_L_agilis.fasta;L_Lagil;L_L_agilis_cytb;>NC_021766.1:14101-15243 Lacerta agilis mitochondrion, complete genome
+L_cytb_L_personatus.fasta;L_Lpers;L_L_personatus_cytb;>NC_012834.1:14091-15230 Leiocephalus personatus mitochondrion, complete genome
+L_cytb_P_elegans.fasta;L_Peleg;L_P_elegans_cytb;>NC_024576.1:14135-15277 Plestiodon elegans mitochondrion, complete genome
+L_cytb_P_muralis.fasta;L_Pmura;L_P_muralis_cytb;>NC_011607.1:14156-15298 Podarcis muralis mitochondrion, complete genome
+L_cytb_S_modesta.fasta;L_Smode;L_S_modesta_cytb;>NC_048521.1:14124-15266 Scincella modesta mitochondrion, complete genome
+O1_cytb_C_maximus.fasta;O1_Cmaxi;O1_C_maximus_cytb;>NC_023266.1:14336-15481 Cetorhinus maximus mitochondrion, complete genome
+O1_cytb_C_obscurus.fasta;O1_Cobsc;O1_C_obscurus_cytb;>NC_020611.1:14353-15497 Carcharhinus obscurus mitochondrion, complete genome
+O1_cytb_C_taurus.fasta;O1_Ctaur;O1_C_taurus_cytb;>NC_023520.1:14395-15539 Carcharias taurus mitochondrion, complete genome
+O1_cytb_O_japonicus.fasta;O1_Ojapo;O1_O_japonicus_cytb;>NC_022148.1:14350-15493 Orectolobus japonicus mitochondrion, complete genome
+O1_cytb_T_obesus.fasta;O1_Tobes;O1_T_obesus_cytb;>NC_026287.1:14349-15493 Triaenodon obesus mitochondrion, complete genome
+O2_cytb_G_gorilla.fasta;O2_Ggori;O2_G_gorilla_cytb;>NC_011120.1:14171-15311 Gorilla gorilla gorilla mitochondrion, complete genome
+O2_cytb_P_pygmaeus.fasta;O2_Ppygm;O2_P_pygmaeus_cytb;>NC_001646.1:14191-15331 Pongo pygmaeus mitochondrion, complete genome
+O2_cytb_P_troglodytes.fasta;O2_Ptrog;O2_P_troglodytes_cytb;>NC_001643.1:14165-15305 Pan troglodytes mitochondrion, complete genome
+S_cytb_A_japonicus.fasta;S_Ajapo;S_A_japonicus_cytb;>NC_007446.1:14124-15264 Andrias japonicus mitochondrion, complete genome
+S_cytb_A_texanum.fasta;S_Atexa;S_A_texanum_cytb;>NC_014571.1:14102-15242 Ambystoma texanum mitochondrion, complete genome
+S_cytb_B_nigriventris.fasta;S_Bnigr;S_B_nigriventris_cytb;>NC_028184.1:14281-15421 Batrachoseps nigriventris mitochondrion, complete genome
+S_cytb_H_leechii.fasta;S_Hleec;S_H_leechii_cytb;>NC_008079.1:14199-15340 Hynobius leechii mitochondrion, complete genome
+S_cytb_N_beyeri.fasta;S_Nbeye;S_N_beyeri_cytb;>NC_023341.1:14082-15222 Necturus beyeri mitochondrion, complete genome
+S_cytb_T_carnifex.fasta;S_Tcarn;S_T_carnifex_cytb;>NC_015788.1:14126-15266 Triturus carnifex mitochondrion, complete genome
